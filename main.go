@@ -1,6 +1,6 @@
 package main
 
-import "github.com/dh1tw/streamdeck-examples/cmd"
+import "github.com/mattiarossi/streamdeck-examples/cmd"
 
 func main() {
 	cmd.Execute()
