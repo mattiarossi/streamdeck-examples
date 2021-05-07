@@ -1,4 +1,4 @@
-module github.com/dh1tw/streamdeck-examples
+module github.com/mattiarossi/streamdeck-examples
 
 go 1.11
 
